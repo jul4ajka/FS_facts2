@@ -1,0 +1,328 @@
+.section-facts-5 {
+  padding-top: 2%; }
+  .section-facts-5 .block-1-section-5 .text-block {
+    display: flex;
+    flex-direction: row;
+    padding-top: 3.9vw;
+    padding-bottom: 13%;
+    background-color: #f6f9fc;
+    }
+    .section-facts-5 .block-1-section-5 .text-block .around-box {
+      position: relative;
+      height: 42vw;
+      width: 42.5vw;
+      margin-top: -9.2vw;
+      margin-left: -5vw;}
+      .section-facts-5.blue-line{
+        margin-left: 0px!important;
+      }
+      .section-facts-5 .blue-line{
+        margin-left: 0px!important;
+      }
+
+      .section-facts-5 .text-block-tab p{
+        width: 36.7vw!important;
+        margin-left: 2.8vw;
+        margin-top: -0.9vw;
+        padding-top: 0.5vw;
+        margin-bottom: -0.5vw;
+        padding-bottom: 3.5vw;
+        line-height: 1.2;
+      }
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-1,
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-2,
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-3,
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-4,
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-5,
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-6,
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-6,
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-7 {
+        position: absolute;
+        animation:  blinker1 14s infinite; }
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-1 {
+        bottom: 1.1vw;
+        left: 2.2vw;
+        animation-delay: 2s;
+      }
+        .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-1 span {
+          top: 4vw;
+          left: 3.5vw;
+        }
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-2 {
+        bottom: 13.2vw;
+        left: 2.3vw;
+        animation-delay: 4s; }
+        .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-2 span {
+          top: 6vw;
+          left: 2vw;}
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-3 {
+        bottom: 9.9vw;
+        left: 13.5vw;
+        animation-name: floating_1;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out; }
+        .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-3 span {
+          bottom: -2vw;
+          left: 2vw;}
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-4 {
+        bottom: 19vw;
+        left: 7.3vw;
+        animation-delay: 6s; }
+        .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-4 span {
+          bottom: 5vw;
+          left: 5vw;}
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-5 {
+        bottom: 19vw;
+        right: 12.3vw;
+        animation-delay: 8s; }
+        .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-5 span {
+          bottom: 4.5vw;
+          left: 1.3vw; }
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-6 {
+        bottom: 12.9vw;
+        right: 7.2vw;
+        animation-delay: 10s; }
+        .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-6 span {
+          bottom: 3.5vw;
+          left: 4vw; }
+      .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-7 {
+        right: 7.2vw;
+        bottom: 0.8vw;
+        animation-delay: 12s; }
+        .section-facts-5 .block-1-section-5 .text-block .around-box .box-arnd-7 span {
+          bottom: 6.5vw;
+          left: 5vw;}
+      .section-facts-5 .block-1-section-5 .text-block .around-box span {
+        position: absolute;
+        color: #282828;
+        font-family: 'Open Sans';
+        word-spacing: 0.39vw;
+        font-weight: bold;
+        text-align: center;
+        font-size: 1.226vw; }
+
+        .section-facts-5 .block-1-section-5 .text-block .around-box  .box-arnd-1 img,
+        .section-facts-5 .block-1-section-5 .text-block .around-box  .box-arnd-2 img,
+        .section-facts-5 .block-1-section-5 .text-block .around-box  .box-arnd-6 img,
+        .section-facts-5 .block-1-section-5 .text-block .around-box  .box-arnd-7 img {
+          height: 11.645vw;
+          
+      }
+
+      .img4 {
+        height: 10.5vw;
+      }
+        
+
+      .section-facts-5 .block-1-section-5 .text-block .around-box  .box-arnd-3 img {
+        width: 11.5vw;
+        height: 8vw;
+      }
+
+  .section-facts-5 .block-2-section-5 {
+    background-color: #eff2f6;
+    padding-bottom: 5%; }
+    .section-facts-5 .block-2-section-5 .text-block-tab {
+      display: flex;
+      flex-direction: row; }
+      .row-element-p {
+        width: 39.2vw;
+        font-size: 1.493vw;
+        font-weight: 300;
+        line-height: 1.24;
+        margin-top: 0.9vw;
+      }
+
+      .row-element-3 {
+        display: flex;
+        flex-direction: row;
+      }
+
+      .row-element-3 img  {
+        width: 2vw;
+        height: 1.8vw;
+        margin-top: 2vw;
+        margin-right: 2vw;
+        box-shadow: 0px 4px 12px 1px #a1a4a7;
+        border-radius: 100%;
+        margin-left: 0.3vw;
+      }
+
+      .row-element-p2 {
+        width: 34vw;
+        font-size: 1.493vw;
+        font-weight: 300;
+        line-height: 1.24;
+        margin-top: 1.7vw;
+        margin-left: -0.8vw;
+      }
+
+      .section-facts-5 .block-2-section-5 .text-block-tab .tab-box-text {
+        font-family: 'Open Sans';
+        font-weight: 400;
+        font-size: 15px;
+        margin: 5% 5% 3% 5%; }
+      .section-facts-5 .block-2-section-5 .text-block-tab .bubbles-right {
+        position: relative; }
+        .section-facts-5 .block-2-section-5 .text-block-tab .bubbles-right img {
+          width: 22.8vw;
+          position: absolute;
+          top: -7.2vw;
+          right: 8.8vw;}
+
+          /* Tables */
+
+      .section-facts-5 .block-2-section-5 .text-block-tab .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        -webkit-animation: fadeEffect 1s;
+        animation: fadeEffect 1s;
+        border-collapse: collapse;
+        background-color: #e2efd6;
+        padding: 0;
+        margin-top: -2vw;
+        padding-right: 0px;
+        margin-left: 0.5vw;
+        -webkit-box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75);
+        -moz-box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75);
+        box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75); }
+        .section-facts-5 .block-2-section-5 .text-block-tab .tabcontent .txt-center {
+          text-align: center;
+          font-weight: bold; }
+        .section-facts-5 .block-2-section-5 .text-block-tab .tabcontent .light-green {
+          background-color: #d4ffe0; }
+        .section-facts-5 .block-2-section-5 .text-block-tab .tabcontent .light-white {
+          background-color: #f6f9fb; }
+        .section-facts-5 .block-2-section-5 .text-block-tab .tabcontent .light-yellow {
+          background-color: #e2efd6;
+          width: 45vw;
+          padding-right: 4vw;
+          margin-top: 1vw;
+          margin-bottom: 1vw;
+          }
+      .section-facts-5 .block-2-section-5 .text-block-tab table th {
+          font-size: 1.3vw;
+          font-weight: bold;
+          text-align: center;
+          font-family: 'Open Sans';
+          padding-top: 1.6vh;
+          padding-bottom: 0.8vw;}
+
+      .table-row1 {
+        border-bottom: 3px solid gray;
+      }
+
+      .light-green {
+        width: 9.3vw;
+      }
+
+      .light-white {
+        width: 8.1vw;
+      }
+
+      .section-facts-5 .block-2-section-5 .text-block-tab table tr td img {
+        width: 2.5vw;
+        margin-top: 0.7vw;
+        margin-left: -0.2vw;
+        border-radius: 50%;
+        box-shadow: 0px 4px 12px 1px #a1a4a7;
+      }
+
+      .section-facts-5 .block-2-section-5 .text-block-tab table td {
+        font-size: 1.4vw;
+        padding-top: 0.5vw;
+        padding-bottom: 2.1vw;
+        font-family: 'Open Sans';
+        color: #2f3031;}
+      .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal {
+        font-size: 1.24vw;
+        font-weight: 300;
+        padding-left: 1vw;
+        display: flex;
+        align-items: center; }
+
+        .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal .txt-center {
+          padding-right: 4vw;
+          padding-left: 4vw;
+          font-size: 1.4vw;
+          font-weight: bold;
+          width: 11vw;
+          height: auto;
+        }
+
+        .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal div {
+          width: 32.2vw;
+          height: auto;
+    }
+    .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal .div2 {
+          padding-left: 3vw;
+          padding-top: 0.5vw;
+          line-height: 1.4;
+          font-size: 1.24vw;
+    }
+
+        /* .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal div p {
+          margin: 0; } */
+      .section-facts-5 .block-2-section-5 .text-block-tab .tab {
+        display: flex;
+        flex-direction: column;
+        margin-left: 2.6vw;
+        margin-top: -1.8vw;}
+        .section-facts-5 .block-2-section-5 .text-block-tab .tab li:hover {
+          box-shadow: 0 2px 4px rgba(50, 50, 93, 0.1); }
+        .section-facts-5 .block-2-section-5 .text-block-tab .tab li {
+          background-color: inherit;
+          float: left;
+          width: 55%;
+          border: none;
+          outline: none;
+          cursor: pointer;
+          padding: 0.32vw;
+          transition: 0.3s;
+          font-size: 1.48vw;
+          font-weight: bold;
+          font-family: 'Open Sans'; }
+        .section-facts-5 .block-2-section-5 .text-block-tab .tab li.active {
+          padding: 5px;
+          background: #fff;
+          border-radius: 2px;
+          box-shadow: 0 2px 4px rgba(50, 50, 93, 0.1); }
+        .section-facts-5 .block-2-section-5 .text-block-tab .tab li.active:before {
+          content: '';
+          display: inline-block;
+          width: 15px;
+          height: 15px;
+          -moz-border-radius: 100%;
+          border-radius: 100%;
+          margin-left: 5px;
+          margin-right: 10px;
+          opacity: 1;
+          z-index: 1;
+          position: relative;
+          background: #acffc2; }
+    .section-facts-5 .block-2-section-5 h3 {
+      font-family: 'Open Sans';
+      word-spacing: 0.2vw;
+      line-height: 1.95vw;
+      color: #252222;
+      font-weight: 800;
+      font-size: 1.89vw;
+      margin-left: 2.7vw;
+      margin-top: 2.4vw;
+      width: 40vw; }
+
+    .row-element-1 {
+      margin-top: 28px;
+      margin-left: 7vw;
+      margin-right: 3vw;
+    }  
+
+    .row-element-2 {
+      margin-top: 68px;
+    }
+
+    .titles {
+      width: 41vw;
+    }
+

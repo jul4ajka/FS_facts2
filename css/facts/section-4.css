@@ -1,0 +1,331 @@
+ .section-facts-4 {
+  padding-top: 1.9%; }
+  .section-facts-4 .text-block {
+    display: flex;
+    padding-top: 115px;
+    flex-direction: row;
+    background-color: #eefff0;
+    padding-bottom: 6%;
+  } 
+  .section-facts-4 .row-element p {
+    margin: 10%;
+    margin-bottom: 1.5vw;
+    margin-top: 1.59vw;
+    margin-left: 8.4vw;
+    width: 35.5vw; }
+
+  .section-facts-4 .hexagons {
+    position: relative;
+    width: 54vw;
+    height: 30vw;
+    margin-right: 15%;
+    margin-left: 10%;
+    margin-top: 3vw;
+   }
+
+   .section-facts-4 .hexagons img {
+    margin-top: -4.5vw;
+    margin-left: 3vw;
+    width: 34vw;
+    height: auto;
+   }
+    .section-facts-4 .hexagons span {
+      color: #282828;
+      font-family: 'Open Sans';
+      word-spacing: 7px;
+      font-weight: bold;
+      text-align: center;
+      font-size: 25px; }
+    .section-facts-4 .hexagons .hexagon-1 {
+      position: relative;
+      width: 120px;
+      height: 69.28px;
+      background-color: #b3eaec;
+      margin: 34.64px 0;
+      transform: rotate(0deg);
+      box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+    .section-facts-4 .hexagons .hexagon-1:before,
+    .section-facts-4 .hexagons .hexagon-1:after {
+      content: "";
+      position: absolute;
+      width: 0;
+      border-left: 60px solid transparent;
+      border-right: 60px solid transparent;
+      /*box-shadow: 0 0 10px rgba(0,0,0,0.8);   */ }
+    .section-facts-4 .hexagons .hexagon-1:before {
+      bottom: 98%;
+      border-bottom: 34.64px solid #b3eaec; }
+    .section-facts-4 .hexagons .hexagon-1:after {
+      top: 98%;
+      width: 0;
+      border-top: 34.64px solid #b3eaec; }
+    .section-facts-4 .hexagons .hexagon-2 {
+      position: relative;
+      width: 50px;
+      height: 28.87px;
+      background-color: #ede8de;
+      margin: 14.43px 0;
+      transform: rotate(0deg);
+      box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+    .section-facts-4 .hexagons .hexagon-2:before,
+    .section-facts-4 .hexagons .hexagon-2:after {
+      content: "";
+      position: absolute;
+      width: 0;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent; }
+    .section-facts-4 .hexagons .hexagon-2:before {
+      bottom: 97%;
+      border-bottom: 14.43px solid #ede8de; }
+    .section-facts-4 .hexagons .hexagon-2:after {
+      top: 97%;
+      width: 0;
+      border-top: 14.43px solid #ede8de; }
+    .section-facts-4 .hexagons .hexagon-3 {
+      position: relative;
+      width: 80px;
+      height: 46.19px;
+      background-color: #ede8de;
+      margin: 23.09px 0;
+      transform: rotate(0deg);
+      box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+    .section-facts-4 .hexagons .hexagon-3:before,
+    .section-facts-4 .hexagons .hexagon-3:after {
+      content: "";
+      position: absolute;
+      width: 0;
+      border-left: 40px solid transparent;
+      border-right: 40px solid transparent; }
+    .section-facts-4 .hexagons .hexagon-3:before {
+      bottom: 98%;
+      border-bottom: 23.09px solid #ede8de; }
+    .section-facts-4 .hexagons .hexagon-3:after {
+      top: 97%;
+      width: 0;
+      border-top: 23.09px solid #ede8de; }
+      .section-facts-4 .hexagons .hexagon-31 {
+        position: relative;
+        width: 80px;
+        height: 46.19px;
+        background-color: #ffffff;
+        margin: 23.09px 0;
+        transform: rotate(0deg);
+        box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+      .section-facts-4 .hexagons .hexagon-31:before,
+      .section-facts-4 .hexagons .hexagon-31:after {
+        content: "";
+        position: absolute;
+        width: 0;
+        border-left: 40px solid transparent;
+        border-right: 40px solid transparent; }
+      .section-facts-4 .hexagons .hexagon-31:before {
+        bottom: 98%;
+        border-bottom: 23.09px solid #ffffff; }
+      .section-facts-4 .hexagons .hexagon-31:after {
+        top: 98%;
+        width: 0;
+        border-top: 23.09px solid #ffffff; }
+        .section-facts-4 .hexagons .hexagon-32 {
+          position: relative;
+          width: 80px;
+          height: 46.19px;
+          background-color: #ffffff;
+          margin: 23.09px 0;
+          transform: rotate(0deg);
+          box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+        .section-facts-4 .hexagons .hexagon-32:before,
+        .section-facts-4 .hexagons .hexagon-32:after {
+          content: "";
+          position: absolute;
+          width: 0;
+          border-left: 40px solid transparent;
+          border-right: 40px solid transparent; }
+        .section-facts-4 .hexagons .hexagon-32:before {
+          bottom: 98%;
+          border-bottom: 23.09px solid #ffffff; }
+        .section-facts-4 .hexagons .hexagon-32:after {
+          top: 98%;
+          width: 0;
+          border-top: 23.09px solid #ffffff; }
+
+          .section-facts-4 .hexagons .hexagon-33 {
+            position: relative;
+            width: 80px;
+            height: 46.19px;
+            background-color: #ffffff;
+            margin: 23.09px 0;
+            transform: rotate(0deg);
+            box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+          .section-facts-4 .hexagons .hexagon-33:before,
+          .section-facts-4 .hexagons .hexagon-33:after {
+            content: "";
+            position: absolute;
+            width: 0;
+            border-left: 40px solid transparent;
+            border-right: 40px solid transparent; }
+          .section-facts-4 .hexagons .hexagon-33:before {
+            bottom: 98%;
+            border-bottom: 23.09px solid #ffffff; }
+          .section-facts-4 .hexagons .hexagon-33:after {
+            top: 98%;
+            width: 0;
+            border-top: 23.09px solid #ffffff; }
+
+    .section-facts-4 .hexagons .hexagon-4 {
+      position: relative;
+      width: 90px;
+      height: 51.96px;
+      background-color: #ffffff;
+      margin: 25.98px 0;
+      transform: rotate(0deg);
+      box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+    .section-facts-4 .hexagons .hexagon-4:before,
+    .section-facts-4 .hexagons .hexagon-4:after {
+      content: "";
+      position: absolute;
+      width: 0;
+      border-left: 45px solid transparent;
+      border-right: 45px solid transparent; }
+    .section-facts-4 .hexagons .hexagon-4:before {
+      bottom: 98%;
+      border-bottom: 25.98px solid #ffffff; }
+    .section-facts-4 .hexagons .hexagon-4:after {
+      top: 98%;
+      width: 0;
+      border-top: 25.98px solid #ffffff; }
+
+      .section-facts-4 .hexagons .hexagon-42 {
+        position: relative;
+        width: 90px;
+        height: 51.96px;
+        background-color: #ffffff;
+        margin: 25.98px 0;
+        transform: rotate(0deg);
+        box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+      .section-facts-4 .hexagons .hexagon-42:before,
+      .section-facts-4 .hexagons .hexagon-42:after {
+        content: "";
+        position: absolute;
+        width: 0;
+        border-left: 45px solid transparent;
+        border-right: 45px solid transparent; }
+      .section-facts-4 .hexagons .hexagon-42:before {
+        bottom: 98%;
+        border-bottom: 25.98px solid #ffffff; }
+      .section-facts-4 .hexagons .hexagon-42:after {
+        top: 98%;
+        width: 0;
+        border-top: 25.98px solid #ffffff; }
+
+    .section-facts-4 .hexagons .hexagon-5 {
+      position: relative;
+      width: 120px;
+      height: 69.28px;
+      background-color: #9FFFCA;
+      margin: 34.64px 0;
+      transform: rotate(0deg);
+      box-shadow: -7px 7px 35px rgba(0, 0, 0, 0.7); }
+    .section-facts-4 .hexagons .hexagon-5:before,
+    .section-facts-4 .hexagons .hexagon-5:after {
+      content: "";
+      position: absolute;
+      width: 0;
+      border-left: 60px solid transparent;
+      border-right: 60px solid transparent;
+      /*box-shadow: 0 0 10px rgba(0,0,0,0.8);   */ }
+    .section-facts-4 .hexagons .hexagon-5:before {
+      bottom: 98%;
+      border-bottom: 34.64px solid #9FFFCA; }
+    .section-facts-4 .hexagons .hexagon-5:after {
+      top: 98%;
+      width: 0;
+      border-top: 34.64px solid #9FFFCA; }
+    .section-facts-4 .hexagons .box-1,
+    .section-facts-4 .hexagons .box-2,
+    .section-facts-4 .hexagons .box-3,
+    .section-facts-4 .hexagons .box-4,
+    .section-facts-4 .hexagons .box-5,
+    .section-facts-4 .hexagons .box-6,
+    .section-facts-4 .hexagons .box-7,
+    .section-facts-4 .hexagons .box-2,
+    .section-facts-4 .hexagons .box-8,
+    .section-facts-4 .hexagons .box-9,
+    .section-facts-4 .hexagons .box-10 {
+      position: absolute; }
+    .section-facts-4 .hexagons .box-1 {
+      top: -10px;
+      left: 20px;
+    }
+    .section-facts-4 .hexagons .box-1 span {
+      position: relative;
+      top: 82px;
+      left: 35px;
+      z-index: 99; }
+    .section-facts-4 .hexagons .box-2 {
+      top: 235px;
+      left: 80px; }
+    .section-facts-4 .hexagons .box-3 {
+      top: 109px;
+      left: 105px;}
+    .section-facts-4 .hexagons .box-3 span {
+      position: relative;
+      top: 60px;
+      left: 30px;
+      z-index: 99; }
+    .section-facts-4 .hexagons .box-4 {
+      top: 15px;
+      left: 160px; }
+    .section-facts-4 .hexagons .box-4 span {
+      position: relative;
+      top: 63px;
+      left: 24px;
+      z-index: 99; }
+    .section-facts-4 .hexagons .box-5 {
+      bottom: 60px;
+      left: 150px; }
+    .section-facts-4 .hexagons .box-5 span {
+      position: relative;
+      top: 70px;
+      left: 27px;
+      z-index: 99; }
+    .section-facts-4 .hexagons .box-6 {
+      bottom: 140px;
+      left: 202px; }
+    .section-facts-4 .hexagons .box-6 span {
+      position: relative;
+      top: 81px;
+      left: 8px;
+      z-index: 99; }
+    .section-facts-4 .hexagons .box-7 {
+      top: 16px;
+      left: 285px;
+      }    
+    .section-facts-4 .hexagons .box-7 span {
+      position: relative;
+      top: 64px;
+      left: 26px;
+      z-index: 99; }
+    .section-facts-4 .hexagons .box-8 {
+      bottom: 55px;
+      left: 275px;
+   }
+    .section-facts-4 .hexagons .box-8 span {
+      position: relative;
+      top: 66px;
+      left: 31px;
+      z-index: 99; }
+    .section-facts-4 .hexagons .box-9 {
+      bottom: 160px;
+      left: 340px; }
+    .section-facts-4 .hexagons .box-10 {
+      bottom: 15px;
+      left: 345px; }
+  .section-facts-4 .total-black-bckg {
+    background-color: black;
+    color: #ffffff;
+    padding: 0 2%; }
+
+  
+  
+
+  

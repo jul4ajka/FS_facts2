@@ -1,0 +1,339 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans';
+  overflow-x: hidden; }
+
+.section-facts-1 {
+  position: relative;
+  margin-top: 40px;
+  overflow: hidden;
+  width: 100%;
+  z-index: 2;
+  height: 42vw;
+  background-color: #F6F9FF;
+  background-position-y: bottom; }
+  .section-facts-1 .image-background {
+    width: 100vw;
+    height: 27.5vw;
+    margin-top: 20px;
+    position: relative;
+    display: flex;
+    background-color: #f6ffe0;
+    background: url(../../img/facts/background2.png);
+    background-size: cover;
+    background-repeat: no-repeat; }
+  .section-facts-1 #instruments {
+    position: absolute;
+    right: 11vw;
+    top: 20vw;
+  }
+  .section-facts-1 .cloud-image {
+    position: absolute;
+    top: 17vw;
+    left: 12vw;}
+  .section-facts-1 img {
+    width: 31vw; }
+  .section-facts-1 .text-box {
+    font-family: 'Open Sans';
+    position: absolute;
+    top: 0;
+    left: 0; }
+  .section-facts-1 .text-box {
+    font-family: 'Open Sans';
+    font-size: 2vw;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    top: 6vw;
+    width: 100%; }
+
+@media screen and (max-width: 768px) {
+        .mobile_facts {
+            display: block;
+        }
+        .section-facts-1 {
+          position: relative;
+          margin-top: 40px;
+          overflow: hidden;
+          width: 100%;
+          z-index: 2;
+          height: 102vw;
+          background-color: #F6F9FF;
+          background-position-y: bottom;
+      }
+
+        .section-facts-1 .image-background {
+            width: 100vw;
+            height: 72vw;
+            margin-top: 20px;
+            position: relative;
+            display: flex;
+            background-color: #f6ffe0;
+            background: url(../../img/facts/background-mobile.png);
+            background-size: cover;
+            background-repeat: no-repeat; }
+
+            .section-facts-1 .cloud-image {
+              position: absolute;
+              top: 10vw;
+              left: 6vw;
+          }
+
+  .section-facts-1 img {
+    width: 60vw;
+        }
+
+  .section-facts-1 .text-box {
+    font-family: 'Open Sans';
+    font-size: 4vw;
+    font-weight: 700;
+    color: rgb(115, 115, 115);
+    text-align: center;
+    top: 12vw;
+    width: 100%;
+      }
+
+  .section-facts-1 #instruments {
+        position: absolute;
+        right: 10vw;
+        top: 54vw;
+    }
+
+  .container {
+      display: flex;
+      flex-direction: row;
+      width: 67vw;
+      height: 40vw;
+      background-image: url(../../img/img_flask/bg.png);
+      background-repeat: no-repeat;
+      background-size: 100%;
+  }
+
+  .bowl1 {
+    width: 22vw;
+    height: 24vw;
+    background: url(../../img/img_flask/test-tubes.png);
+    background-size: 80% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 3vw;
+    left: 1.2vw;
+}
+
+.shadowFlask1 {
+  background: url(../../img/img_flask/test-tubes_shadow.png);
+  background-size: 80% 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 24vw;
+  height: 23vw;
+  top: 3vw;
+  left: 1.2vw;
+  opacity: 0.63;
+}
+
+.bowl1 .inner12 {
+  width: 15.7vw;
+  top: 8vw;
+  left: 0.7vw;
+  height: 14vw;
+}
+
+.bowl1 .inner1 {
+    border-radius: 50%;
+    width: 14vw;
+    top: -5.5vw;
+    left: 1.1vw;
+    height: 14.5vw;
+}
+
+.bowl1 .inner1Right {
+  border-radius: 50%;
+  width: 15.5vw;
+  top: -20vw;
+  left: 1.1vw;
+  height: 14vw;
+}
+
+.bowl2 {
+  position: relative;
+  width: 32vw;
+  height: 26vw;
+  top: 3vw;
+  left: 1vw;
+  background: url(../../img/img_flask/test-tubes2.png);
+  background-size: 80% 100%;
+  background-repeat: no-repeat;
+}
+
+.shadowFlask2 {
+  background: url(../../img/img_flask/test-tubes2_shadow.png);
+  background-size: 80% 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 38vw;
+  height: 28vw;
+  top: 0.7vw;
+  left: 23vw;
+  opacity: 0.6;
+}
+
+.bowl2 .inner22 {
+  width: 19.5vw;
+  height: 11vw;
+  top: 13vw;
+  left: 2.9vw;
+}
+
+.bowl2 .inner2 {
+  width: 19vw;
+  height: 10vw;
+  top: 3vw;
+  left: 2.6vw;
+}
+
+.bowl2 .inner2Right {
+  width: 20.5vw;
+  height: 10vw;
+  top: -7vw;
+  left: 3vw;
+}
+
+.bowl3 {
+  top: 3vw;
+  left: -2vw;
+  position: relative;
+  width: 12vw;
+  height: 24vw;
+  background: url(../../img/img_flask/test-tubes3.png);
+  background-size: 80% 100%;
+  background-repeat: no-repeat;
+}
+
+.bowl3 .inner32 {
+  width: 4.7vw;
+  height: 15.5vw;
+  top: 5vw;
+  left: 2.7vw;
+}
+
+.bowl3 .inner3 {
+  width: 3.9vw;
+  height: 17vw;
+  top: -10vw;
+  left: 2.9vw;
+}
+
+.bowl3 .inner3Right {
+  width: 4.5vw;
+  height: 17vw;
+  top: -27vw;
+  left: 3.2vw;
+}
+.shadowFlask3 {
+  background: url(../../img/img_flask/test-tubes3_shadow.png);
+  background-size: 80% 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 4vw;
+  height: 12vw;
+  top: 8vw;
+  left: 51vw;
+  opacity: 0.5;
+}
+
+}
+
+@media screen and (max-width: 425px) {
+  .bowl1 .inner12 {
+    width: 15.7vw;
+    top: 4.5vw;
+    left: 0.7vw;
+    height: 19vw;
+}
+
+.bowl1 .inner1 {
+  border-radius: 50%;
+  width: 14vw;
+  top: -14.2vw;
+  left: 1.1vw;
+  height: 18vw;
+}
+
+.bowl1 .inner1Right {
+  border-radius: 50%;
+  width: 15.6vw;
+  top: -32vw;
+  left: 1.1vw;
+  height: 18vw;
+}
+
+.bowl3 .inner32 {
+  width: 4.6vw;
+    height: 19vw;
+    top: 2vw;
+    left: 2.9vw;
+}
+
+.bowl3 .inner3 {
+  width: 3.9vw;
+    height: 20vw;
+    top: -16.5vw;
+    left: 2.9vw;
+}
+
+.bowl3 .inner3Right {
+  width: 4.5vw;
+  height: 20vw;
+  top: -36.5vw;
+  left: 3.2vw;
+}
+}
+
+@media screen and (max-width: 320px) {
+  .bowl1 .inner12 {
+    width: 16.5vw;
+    top: 2vw;
+    left: 0.7vw;
+    height: 21vw;
+}
+
+.bowl1 .inner1 {
+  border-radius: 50%;
+  width: 15vw;
+  top: -19.2vw;
+  left: 0.8vw;
+  height: 21vw;
+}
+
+.bowl1 .inner1Right {
+  border-radius: 50%;
+  width: 15.9vw;
+  top: -40vw;
+  left: 1.1vw;
+  height: 21vw;
+}
+
+.bowl3 .inner32 {
+  width: 4.7vw;
+  height: 23vw;
+  top: -1vw;
+  left: 2.8vw;
+
+}
+
+.bowl3 .inner3 {
+  width: 3.8vw;
+  height: 24vw;
+  top: -24vw;
+  left: 2.9vw;
+}
+
+.bowl3 .inner3Right {
+  width: 3.5vw;
+  height: 24vw;
+  top: -48vw;
+  left: 3.9vw;
+}
+
+}
